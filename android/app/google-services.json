@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583508148266",
+    "project_id": "face-detect-b8d8d",
+    "storage_bucket": "face-detect-b8d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583508148266:android:6a3e77a8900c0771140353",
+        "android_client_info": {
+          "package_name": "vht.com.facelive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583508148266-mguct6pg7v8rtjg9jlv7ar3bv4tock37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vht.com.facelive",
+            "certificate_hash": "318bd37ab1822e52a3625bcb3d95b994b8f7b8d6"
+          }
+        },
+        {
+          "client_id": "583508148266-06bqoq60tbce0cnkc8klnmi1fqcag50s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHyalNaBBYrzrN5EeqYOGlZzKBOh9gizQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583508148266-06bqoq60tbce0cnkc8klnmi1fqcag50s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
